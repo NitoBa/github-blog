@@ -47,7 +47,7 @@ You can view the project through the links below:
 
 - [Layout](https://www.figma.com/file/WV96YsYkIMH419Pe1GQPxG/GitHub-Blog-(Community)?node-id=2%3A1550)
 
-- [Live Preview](https://nitodev.vercel.app/)
+- [Live Preview](https://github-blog-nitoba.vercel.app/)
 
 ## 📝 License
 
