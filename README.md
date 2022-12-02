@@ -1,12 +1,17 @@
 <p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=E7EDF4&labelColor=3294F8" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/NitoBa/profile-website?label=forks&message=MIT&color=E7EDF4&labelColor=3294F8" alt="Forks">
+  <img alt="preview image" src=".github/preview.png">
+</p>
 
-  <img src="https://img.shields.io/github/stars/NitoBa/profile-website?label=stars&message=MIT&color=E7EDF4&labelColor=3294F8" alt="Stars">
+<p align="center">
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=E7EDF4&labelColor=3294F8" alt="License">
+
+<img src="https://img.shields.io/github/forks/NitoBa/profile-website?label=forks&message=MIT&color=E7EDF4&labelColor=3294F8" alt="Forks">
+
+<img src="https://img.shields.io/github/stars/NitoBa/profile-website?label=stars&message=MIT&color=E7EDF4&labelColor=3294F8" alt="Stars">
 </p>
 
 <h1 align="center">
+    Github Blog
 </h1>
 
 <br>
@@ -19,7 +24,7 @@ This project was developed using the following technologies:
 - [React](https://pt-br.reactjs.org/)
 - [highlight.js](https://highlightjs.org/)
 - [Styled Components](https://styled-components.com/)
-- [React Hook Form](https://react-hook-form.com/)   
+- [React Hook Form](https://react-hook-form.com/)
 - [Zod](https://github.com/colinhacks/zod)
 - [Context Selector](https://www.npmjs.com/package/use-context-selector)
 
@@ -46,7 +51,6 @@ npm run dev
 You can view the project through the links below:
 
 - [Layout](https://www.figma.com/file/WV96YsYkIMH419Pe1GQPxG/GitHub-Blog-(Community)?node-id=2%3A1550)
-
 - [Live Preview](https://github-blog-nitoba.vercel.app/)
 
 ## 📝 License
@@ -56,3 +60,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Made with 💜 by [Bruno Alves](https://nito-dev.vercel.app/) 👋
+
